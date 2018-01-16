@@ -1,4 +1,4 @@
-# 4-20mA_Current_Loop_Transmitter_XTR116U_with_Analog_Input
+# 4-20mA Current Loop Transmitter XTR116U with Analog Input
 
 ![rdl_4-20ma-current-loop-transmitter_customized_1](https://user-images.githubusercontent.com/8509587/30577071-9230e44e-9d29-11e7-8b90-da8377c8b62b.gif)
 
